@@ -1,4 +1,4 @@
-### **2차시: 영화 리뷰 감성 분석 모델 학습**
+# **2차시: 영화 리뷰 감성 분석 모델 학습**
 
 - **기술 스택**: Scikit-learn, Pandas, Joblib
 - **학습 목표**:
@@ -12,7 +12,7 @@
     - **모델 학습**: `CountVectorizer`를 사용해 텍스트 데이터를 벡터화하고, Logistic Regression 모델을 학습시킵니다.
     - **모델 저장 및 로딩**: 학습된 모델을 Joblib을 사용해 저장한 후, 저장된 모델을 다시 로딩해 성능을 테스트합니다.
 # 참고 자료
-[네이버 영화 리뷰 감성 분류하기](https://wikidocs.net/44249)
-[영화리뷰 감성분석 (Sentiment Analysis)](https://yeong-jin-data-blog.tistory.com/entry/%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0-%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D-Sentiment-Analysis)
-[아나콘다 환경에서 konlpy 사용시 jvm.dll 못찾는 오류](https://rural-mouse.tistory.com/5)
-[Tensorflow LSTM 모델 (public score : 0.848)](https://dacon.io/competitions/official/235864/codeshare/4160)
+### [네이버 영화 리뷰 감성 분류하기](https://wikidocs.net/44249)
+### [영화리뷰 감성분석 (Sentiment Analysis)](https://yeong-jin-data-blog.tistory.com/entry/%EC%98%81%ED%99%94%EB%A6%AC%EB%B7%B0-%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D-Sentiment-Analysis)
+### [아나콘다 환경에서 konlpy 사용시 jvm.dll 못찾는 오류](https://rural-mouse.tistory.com/5)
+### [Tensorflow LSTM 모델 (public score : 0.848)](https://dacon.io/competitions/official/235864/codeshare/4160)
