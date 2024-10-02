@@ -1,0 +1,3 @@
+[submodule "3nd-week/정수현/mnist-mlops-learning"]
+	path = 3nd-week/정수현/mnist-mlops-learning
+	url = https://github.com/suhyun6363/mnist-mlops-learning.git
